@@ -14,6 +14,7 @@ It is a project I did to practice Object Oriented Programming, I followed all th
 - Send , Receieve and give reply of Messages.
 - Make Pages and Groups.
 - Add Friends to Groups.
+- Appropriate File Handeling so your data is never lost.
 
 
 ## Deployment
